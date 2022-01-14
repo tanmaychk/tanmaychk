@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
-- 🔭 I’m currently working on **some project with react**
-
-- 💬 Ask me about **UI/UX & Frontend stuff**
+- 🔭 I’m currently working on some react based projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
