@@ -1,0 +1,17 @@
+name: Latest Dev.To story workflow
+on:
+  schedule:
+    # Runs every day at 8AM
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest Dev.to post
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "DEVTO-STORY-LIST"
+          feed_list: "https://dev.to/feed/tanmaychk"
