@@ -16,4 +16,6 @@
 
 ### 📚 Latest Dev.To Blogs
 <!-- DEVTO-STORY-LIST:START -->
+- [How I created my Portfolio website using Hugo and GitHub pages?](https://dev.to/tanmaychk/how-i-created-my-portfolio-website-using-hugo-and-github-pages-1b89)
+- [What impact does Web3 have on your developer life?](https://dev.to/tanmaychk/what-impact-does-web3-have-on-your-developer-life-1109)
 <!-- DEVTO-STORY-LIST:END -->
