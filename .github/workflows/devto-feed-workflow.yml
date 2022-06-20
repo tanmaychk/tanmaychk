@@ -1,8 +1,8 @@
 name: Latest Dev.To story workflow
 on:
   schedule:
-    # Runs every day at 8AM
-    - cron: '0 8 * * *'
+    # Runs every Sunday at 00:00
+    - cron: '0 0 * * 0'
   workflow_dispatch:
 
 jobs:
