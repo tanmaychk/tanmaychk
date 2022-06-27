@@ -1,7 +1,7 @@
 # sup 👋 nice to meet you :)</h1>
 ## I'm Tanmay, a B.Tech (CS) Student @SRM University and a Full Stack Developer and Finance enthusiast
 
-<p align="left"> <a href="https://twitter.com/tanmaychk" target="blank"><img src="https://img.shields.io/twitter/follow/tanmaychk?logo=twitter&style=for-the-badge" alt="tanmaychk" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/tanmaychk?logo=twitter&style=for-the-badge" alt="tanmaychk" /></a> </p>
 
 ### Connect with me:
 <p align="left">
